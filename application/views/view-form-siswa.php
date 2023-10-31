@@ -80,7 +80,6 @@ method="post">
                         <option value="Katolik">Katolik</option>
                         <option value="Budha">Budha</option>
                         <option value="Hindu">Hindu</option>
-                        <option value="Protestan">Protestan</option>
                         <option value="Khonghucu">Khonghucu</option>
                     </select>
                 </td>
